@@ -2,11 +2,6 @@
 
 This makes a user send all messages from one/many chat(s) to another chat(s).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-[![YouTube Video](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/_83nexTIUaU) - Deploy Tutorial On YouTube
-
-[![YouTube Video](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/ctdQhVOxd0I) - Heroku Error Solution
 
 ## Setting up 
 * First:
@@ -34,7 +29,3 @@ All new messages will be auto-posted!!
 Join the channel from you want the posts to be taken.
 Join as admin in the channel where you want the posts to be sent to.
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/joinchat/QiGxI8jGZKA4Mjll) - Join it for Update purpose. 
-
-## Credits
-> [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/LonamiWebs/Telethon).   
